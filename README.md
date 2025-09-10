@@ -1,7 +1,6 @@
 # MVP: Análise de Taxa de Desistência - Escola Estadual
 
-### Este projeto é um MVP para aplicar conteúdos de regressão linear e análise de séries temporais
-em uma atividade de extensão
+### Este projeto é um MVP para aplicar conteúdos de regressão linear e análise de séries temporais em uma atividade de extensão
 
 Arquivos gerados:
 - data/dropout_school.csv  => Dados (históricos 2013-2022)
