@@ -29,11 +29,7 @@ pip install -r /mnt/data/dropout_mvp/requirements.txt
 cd /mnt/data/dropout_mvp
 python analyze_dropout.py
 
-
-Obs: o arquivo report.pdf já foi gerado automaticamente e inclui diagnósticos, plano de trabalho,
-metodologia, avaliação e instruções sobre como coletar evidências (fotos, listas, etc.).
-
-Sugestão de atividade presencial para cumprir os requisitos:
+### Sugestão de atividade presencial para cumprir os requisitos:
 - Realizar uma oficina de 3 horas com coordenação e professores da escola para apresentar o relatório,
   demonstrar o script em Python e ensinar como atualizar a planilha de evasão.
 
