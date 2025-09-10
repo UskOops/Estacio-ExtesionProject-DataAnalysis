@@ -1,6 +1,6 @@
 # MVP: Análise de Taxa de Desistência - Escola Estadual
 
-Este projeto é um MVP para aplicar conteúdos de regressão linear e análise de séries temporais
+### Este projeto é um MVP para aplicar conteúdos de regressão linear e análise de séries temporais
 em uma atividade de extensão
 
 Arquivos gerados:
@@ -17,16 +17,16 @@ Como executar (localmente):
 
 -------------------------------------------------
 
-# 1) clonar ou copiar os arquivos para uma pasta local
-# 2) criar e ativar virtualenv (opcional mas recomendado)
+#### 1) clonar ou copiar os arquivos para uma pasta local
+#### 2) criar e ativar virtualenv (opcional mas recomendado)
 python -m venv venv
 source venv/bin/activate   # Linux / macOS
 venv\Scripts\activate      # Windows
 
-# 3) instalar dependências
+#### 3) instalar dependências
 pip install -r /mnt/data/dropout_mvp/requirements.txt
 
-# 4) executar a análise
+#### 4) executar a análise
 cd /mnt/data/dropout_mvp
 python analyze_dropout.py
 
@@ -39,7 +39,7 @@ Sugestão de atividade presencial para cumprir os requisitos:
   demonstrar o script em Python e ensinar como atualizar a planilha de evasão.
 
 
-  # Como adaptar para a escola real (passos práticos)
+  ## Como adaptar para a escola real (passos práticos)
 
 Solicite à secretaria escolar os registros anuais: número de matriculados e número de desistências por ano (colunas enrolled e dropouts)
 
